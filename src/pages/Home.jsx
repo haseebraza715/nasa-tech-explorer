@@ -107,8 +107,7 @@ export default function Home() {
 
         {/* Welcome State */}
         {!searched && (
-          <div className="text-center py-12 sm:py-16 px-4">
-            <div className="text-gray-600 text-5xl sm:text-6xl mb-6">🚀</div>
+          <div className="text-center py-8 sm:py-12 px-4">
             <h3 className="text-xl sm:text-2xl font-semibold text-white mb-4">
               Welcome to NASA Tech Explorer
             </h3>
